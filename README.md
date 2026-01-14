@@ -24,8 +24,16 @@ This repository contains QA artifacts and test implementations based on **live w
 ### 📄 Test Plans & Documentation
 - **Test Plans**  
   Structured test plans outlining scope, strategy, risks, environments, and entry/exit criteria for each application under test.
+  ### 1🔹 Abidors (A property management website for buying and selling homes in Bulgaria)
+- **Test Plan:** [abidors-test-plan.md](./test-plans/abidors-test-plan.md)
+- **Test Cases:** [abidors-test-cases.md](./manual-testing/abidors-test-cases.md)
+- **Bug Report:** [sample-bug-abidors.md](./bug-reports/sample-bug-abidors.md)
+- **Accessibility Report:** [abidors-accessibility-report.md](./accessibility/abidors-accessibility-report.md)
 
-- **Bug Reports**  
+---
+
+
+-  **Bug Reports**  
   Well-documented defects with clear reproduction steps, expected vs actual results, severity, impact, and environment details.
 
 ### 🤖 Automation Testing
