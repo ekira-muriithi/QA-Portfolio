@@ -22,20 +22,11 @@ This portfolio showcases QA work I have performed on **real-world web applicatio
 This repository contains QA artifacts and test implementations based on **live web applications**, focusing on real-world testing practices beyond demo platforms.
 
 ### 📄 Test Plans & Documentation
-- **Test Plans**  
   Structured test plans outlining scope, strategy, risks, environments, and entry/exit criteria for each application under test.
-  ### 1🔹 Abidors (A property management website for buying and selling homes in Bulgaria)
-- **Test Plan:** [abidors-test-plan.md](./test-plans/abidors-test-plan.md)
-- **Test Cases:** [abidors-test-cases.md](./manual-testing/abidors-test-cases.md)
-- **Bug Report:** [sample-bug-abidors.md](./bug-reports/sample-bug-abidors.md)
-- **Accessibility Report:** [abidors-accessibility-report.md](./accessibility/abidors-accessibility-report.md)
 
----
-
-
--  **Bug Reports**  
-  Well-documented defects with clear reproduction steps, expected vs actual results, severity, impact, and environment details.
-
+### 🪲 Bug Reports (where applicable)
+  Well-structured bug reports highlighting clear reproduction steps, expected vs actual results, severity, and impact.
+  
 ### 🤖 Automation Testing
 - **Playwright Automation (JavaScript)**  
   End-to-end UI test scripts covering critical user flows, demonstrating stable selectors, assertions, and clean test structure.
@@ -48,4 +39,22 @@ This repository contains QA artifacts and test implementations based on **live w
 
 ---
 
+## Live Web Applications
+
+### 1. Abidors (A property management website for buying and selling homes in Bulgaria)
+- **Test Plan:** [abidors-test-plan.md](./test-plans/abidors-test-plan.md)
+- **Test Cases:** [abidors-test-cases.md](./manual-testing/abidors-test-cases.md)
+- **Playwright Tests:** [Playwright Scripts](.automation/playwright)
+- **Bug Report:** [sample-bug-abidors.md](./bug-reports/sample-bug-abidors.md)
+- **API Tests:**
+- **Accessibility Compliance Report:** [abidors-accessibility-report.md](./accessibility/abidors-accessibility-report.md)
+
+  
+### 2. Nexura Africa (Authentication-Based Application)
+
+- **Test Plan:** [nexura-test-plan.md](./test-plans/nexura-test-plan.md)
+- **Test Cases:** [nexura-test-cases.md](./manual-testing/nexura-test-cases.md)
+- **Playwright Tests:** [Playwright Scripts](./automation/playwright)
+- **API Tests:** [Postman Collection](./api-testing/postman-collections/nexura.postman_collection.json)
+- **Bug Report:** [sample-bug-nexura.md](./bug-reports/sample-bug-nexura.md)
 
