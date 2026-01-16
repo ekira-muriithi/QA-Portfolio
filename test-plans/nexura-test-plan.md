@@ -1,4 +1,4 @@
-# Nexura Africa — Login Test Plan
+# Nexura Africa Test Plan
 
 ## 1. Test Plan Overview
 
