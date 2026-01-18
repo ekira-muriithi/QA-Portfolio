@@ -47,7 +47,7 @@ This repository contains QA artifacts and test implementations based on **live w
 - **Playwright Tests:** [Playwright Scripts](.automation/playwright)
 - **Bug Report:** [sample-bug-abidors.md](./bug-reports/sample-bug-abidors.md)
 - **API Tests:**
-- **Accessibility Compliance Report:** [abidors-accessibility-report.md](./accessibility/abidors-accessibility-report.md)
+- **Accessibility Compliance Report:** [Abidors Accessibility Compliance report.pdf](accessibility/Abidors%20Accessibility%20Compliance%20report.pdf)
 
   
 ### 2. Nexura Africa (Authentication-Based Application)
