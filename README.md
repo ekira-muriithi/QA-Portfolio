@@ -50,7 +50,7 @@ This repository contains QA artifacts and test implementations based on **live w
 - **Accessibility Compliance Report:** [Abidors Accessibility Compliance report.pdf](accessibility/Abidors%20Accessibility%20Compliance%20report.pdf)
 
   
-### 2. Nexura Africa (Authentication-Based Application)
+### 2. Nexura Africa (E-Commerce Website)
 
 - **Test Plan:** [nexura-test-plan.md](./test-plans/nexura-test-plan.md)
 - **Test Cases:** [nexura-test-cases.md](./manual-testing/nexura-test-cases.md)
