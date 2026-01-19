@@ -4,16 +4,17 @@
 
 **Application Name:** Nexura Africa Login  
 **Application URL:** https://nexuraafrica.shop/login  
-**Application Type:** Authentication (E-commerce platform)
+**Application Type:** Plublic facing E-commerce platform
 
 ### Objective
-The objective of this test plan is to evaluate the **functional correctness, usability, accessibility, API behavior, and basic performance** of the Nexura Africa login feature to identify defects and quality risks that may impact end users.
+The objective of this test plan is to evaluate the **functional correctness, usability, accessibility, API behavior, and basic performance** of the Nexura Africa website, to identify defects and quality risks that may impact end users.
 
 ---
 
 ## 2. Scope
 
 ### In Scope
+- Account registration
 - Login form UI and behavior
 - Valid and invalid credential handling
 - Error messages and validation
@@ -24,7 +25,6 @@ The objective of this test plan is to evaluate the **functional correctness, usa
 - Basic performance indicators (load time, response time)
 
 ### Out of Scope
-- Account registration (if not part of login flow)
 - Advanced security or penetration testing
 - Load or stress testing
 - Backend infrastructure validation
@@ -32,7 +32,7 @@ The objective of this test plan is to evaluate the **functional correctness, usa
 
 ---
 
-## 3. Test Strategy
+## 3. Test Approach
 
 ### 3.1 Manual Functional Testing
 Manual testing will validate:
@@ -84,7 +84,7 @@ Basic performance evaluation will assess:
 - Response time after form submission
 - UI responsiveness during authentication
 
-Tools may include browser developer tools and Lighthouse.
+**Tools:** Browser developer tools and Lighthouse.
 
 ---
 
