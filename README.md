@@ -45,7 +45,7 @@ This repository contains QA artifacts and test implementations based on **live w
 - **Test Plan:** [abidors-test-plan.md](./test-plans/abidors-test-plan.md)
 - **Test Cases:** [abidors-test-cases.md](./manual-testing/abidors-test-cases.md)
 - **Playwright Tests:** [Playwright Scripts](.automation/playwright)
-- **Bug Report:** [sample-bug-abidors.md](./bug-reports/abidors-bug-reports)
+- **Bug Report:** [abidors bug reports](./bug-reports/abidors-bug-reports)
 - **API Tests:**
 - **Accessibility Compliance Report:** [Abidors Accessibility Compliance report.pdf](accessibility/Abidors%20Accessibility%20Compliance%20report.pdf)
 
@@ -56,5 +56,5 @@ This repository contains QA artifacts and test implementations based on **live w
 - **Test Cases:** [nexura-test-cases.md](./manual-testing/nexura-test-cases.md)
 - **Playwright Tests:** [Playwright Scripts](./automation/playwright)
 - **API Tests:** [Postman Collection](./api-testing/postman-collections/nexura.postman_collection.json)
-- **Bug Report:** [sample-bug-nexura.md](./bug-reports/nexura-bug-reports)
+- **Bug Report:** [nexura bug reports](./bug-reports/nexura-bug-reports)
 
