@@ -9,39 +9,39 @@
 
 ---
 
-## 🔹 Test Scenarios
+##  Test Scenarios
 
-### TS-01 — Login Page UI and Content Validation
+### TS-01 - Login Page UI and Content Validation
 Validate that all UI elements on the login page are displayed correctly and are usable.
 
-### TS-02 — Email Field Validation
+### TS-02 - Email Field Validation
 Validate accepted and rejected inputs for the email field.
 
-### TS-03 — Password Field Validation
+### TS-03 - Password Field Validation
 Validate password masking, visibility toggle, and input handling.
 
-### TS-04 — Login Functionality
+### TS-04 - Login Functionality
 Validate successful and unsuccessful login attempts.
 
-### TS-05 — One-Time Code Login Option
+### TS-05 - One-Time Code Login Option
 Validate switching between Password and One-Time Code login methods.
 
-### TS-06 — Remember Me Functionality
+### TS-06 - Remember Me Functionality
 Validate persistence of login session.
 
-### TS-07 — Forgot Password Flow
+### TS-07 - Forgot Password Flow
 Validate password recovery navigation.
 
-### TS-08 — Accessibility and Keyboard Navigation
+### TS-08 - Accessibility and Keyboard Navigation
 Validate basic accessibility compliance and keyboard usage.
 
 ---
 
-## 🔹 Test Cases
+##  Test Cases
 
 ### TS-01: Login Page UI and Content Validation
 
-#### TC-01 — Verify login page loads successfully
+#### TC-01 - Verify login page loads successfully
 - **Steps**
   1. Navigate to the Nexura login page
 - **Expected Result**
@@ -51,7 +51,7 @@ Validate basic accessibility compliance and keyboard usage.
 
 ---
 
-#### TC-02 — Verify branding and informational cards are visible
+#### TC-02 - Verify branding and informational cards are visible
 - **Steps**
   1. Observe the left-side feature cards
 - **Expected Result**
@@ -62,7 +62,7 @@ Validate basic accessibility compliance and keyboard usage.
 
 ### TS-02: Email Field Validation
 
-#### TC-03 — Verify email field accepts valid email format
+#### TC-03 - Verify email field accepts valid email format
 - **Steps**
   1. Enter a valid email address (e.g. `user@test.com`)
 - **Expected Result**
@@ -71,7 +71,7 @@ Validate basic accessibility compliance and keyboard usage.
 
 ---
 
-#### TC-04 — Verify invalid email format is rejected
+#### TC-04 - Verify invalid email format is rejected
 - **Steps**
   1. Enter an invalid email (e.g. `abc123`)
   2. Attempt to log in
@@ -83,7 +83,7 @@ Validate basic accessibility compliance and keyboard usage.
 
 ### TS-03: Password Field Validation
 
-#### TC-05 — Verify password is masked by default
+#### TC-05 - Verify password is masked by default
 - **Steps**
   1. Enter any password
 - **Expected Result**
@@ -91,7 +91,7 @@ Validate basic accessibility compliance and keyboard usage.
 
 ---
 
-#### TC-06 — Verify password visibility toggle
+#### TC-06 - Verify password visibility toggle
 - **Steps**
   1. Enter password
   2. Click the eye icon
@@ -103,7 +103,7 @@ Validate basic accessibility compliance and keyboard usage.
 
 ### TS-04: Login Functionality
 
-#### TC-07 — Login with valid credentials
+#### TC-07 - Login with valid credentials
 - **Steps**
   1. Enter valid email
   2. Enter valid password
@@ -114,7 +114,7 @@ Validate basic accessibility compliance and keyboard usage.
 
 ---
 
-#### TC-08 — Login with invalid credentials
+#### TC-08 - Login with invalid credentials
 - **Steps**
   1. Enter valid email
   2. Enter incorrect password
@@ -127,7 +127,7 @@ Validate basic accessibility compliance and keyboard usage.
 
 ### TS-05: One-Time Code Login Option
 
-#### TC-09 — Switch to One-Time Code login
+#### TC-09 - Switch to One-Time Code login
 - **Steps**
   1. Click **One-Time Code** tab
 - **Expected Result**
@@ -138,7 +138,7 @@ Validate basic accessibility compliance and keyboard usage.
 
 ### TS-06: Remember Me Functionality
 
-#### TC-10 — Verify Remember Me checkbox selection
+#### TC-10 - Verify Remember Me checkbox selection
 - **Steps**
   1. Check **Remember me**
   2. Log in successfully
@@ -150,7 +150,7 @@ Validate basic accessibility compliance and keyboard usage.
 
 ### TS-07: Forgot Password Flow
 
-#### TC-11 — Verify Forgot Password navigation
+#### TC-11 - Verify Forgot Password navigation
 - **Steps**
   1. Click **Forgot password?**
 - **Expected Result**
@@ -160,7 +160,7 @@ Validate basic accessibility compliance and keyboard usage.
 
 ### TS-08: Accessibility and Keyboard Navigation
 
-#### TC-12 — Keyboard-only navigation
+#### TC-12 - Keyboard-only navigation
 - **Steps**
   1. Use Tab key to navigate through fields
 - **Expected Result**
@@ -169,7 +169,7 @@ Validate basic accessibility compliance and keyboard usage.
 
 ---
 
-#### TC-13 — Verify form labels and placeholders
+#### TC-13 - Verify form labels and placeholders
 - **Steps**
   1. Inspect Email and Password fields
 - **Expected Result**
