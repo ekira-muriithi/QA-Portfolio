@@ -44,7 +44,7 @@ This repository contains QA artifacts and test implementations based on **live w
 ### 1. Abidors (A property management website for buying and selling homes in Bulgaria)
 - **Test Plan:** [abidors-test-plan.md](./test-plans/abidors-test-plan.md)
 - **Test Cases:** [abidors-test-cases.md](./manual-testing/abidors-test-cases.md)
-- **Playwright Tests:** [Playwright Scripts](.automation/playwright)
+- **Playwright Tests:** [Playwright Scripts](.automation/playwright/Abidors-Test-Scripts)
 - **Bug Report:** [abidors bug reports](./bug-reports/abidors-bug-reports)
 - **API Tests:**
 - **Accessibility Compliance Report:** [Abidors Accessibility Compliance report.pdf](accessibility/Abidors%20Accessibility%20Compliance%20report.pdf)
@@ -54,7 +54,7 @@ This repository contains QA artifacts and test implementations based on **live w
 
 - **Test Plan:** [nexura-test-plan.md](./test-plans/nexura-test-plan.md)
 - **Test Cases:** [nexura-test-cases.md](./manual-testing/nexura-test-cases.md)
-- **Playwright Tests:** [Playwright Scripts](./automation/playwright)
+- **Playwright Tests:** [Playwright Scripts](./automation/playwright/Nexura-Test-Scripts)
 - **API Tests:** [Postman Collection](./api-testing/postman-collections/nexura.postman_collection.json)
 - **Bug Report:** [nexura bug reports](./bug-reports/nexura-bug-reports)
 
