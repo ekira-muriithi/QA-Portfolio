@@ -57,4 +57,6 @@ This repository contains QA artifacts and test implementations based on **live w
 - **Playwright Tests:** [Playwright Scripts](.automation/playwright/Nexura-Test-Scripts/tests)
 - **API Tests:** [Postman Collection](./api-testing/postman-collections/nexura.postman_collection.json)
 - **Bug Report:** [nexura bug reports](./bug-reports/nexura-bug-reports)
+- **Accessibility Compliance Report:** [Nexura Accessibility Compliance report.pdf](accessibility/Nexura%20Accessibility%20Compliance%20report.pdf)
+
 
