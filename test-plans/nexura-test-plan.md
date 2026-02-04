@@ -4,7 +4,7 @@
 
 **Application Name:** Nexura Africa Login  
 **Application URL:** https://nexuraafrica.shop/login  
-**Application Type:** Plublic facing E-commerce platform
+**Application Type:** Public facing E-commerce platform
 
 ### Objective
 The objective of this test plan is to evaluate the **functional correctness, usability, accessibility, API behavior, and basic performance** of the Nexura Africa website, to identify defects and quality risks that may impact end users.
