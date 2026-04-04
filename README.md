@@ -41,13 +41,13 @@ This repository contains QA artifacts and test implementations based on **live w
 
 ## Live Web Applications
 
-### 1. Abidors (A property management website for buying and selling homes in Bulgaria)
-- **Test Plan:** [abidors-test-plan.md](./test-plans/abidors-test-plan.md)
-- **Test Cases:** [abidors-test-cases.md](./manual-testing/abidors-test-cases.md)
-- **Playwright Tests:** [Playwright Scripts](.automation/playwright/Abidors-Test-Scripts)
-- **Bug Report:** [abidors bug reports](./bug-reports/abidors-bug-reports)
+### 1. Hampton Scientific (A medical supplies and training website)
+- **Test Plan:** [hampton-test-plan.md](./test-plans/hampton-test-plan.md)
+- **Test Cases:** [hampton-test-cases.md](./manual-testing/hampton-test-cases.md)
+- **Playwright Tests:** [Playwright Scripts](.automation/playwright/Hampton-Test-Scripts)
+- **Bug Report:** [hampton bug reports](./bug-reports/hampton-bug-reports)
 - **API Tests:**
-- **Accessibility Compliance Report:** [Abidors Accessibility Compliance report.pdf](accessibility/Abidors%20Accessibility%20Compliance%20report.pdf)
+- **Accessibility Compliance Report:** [Hamptons Accessibility Compliance report.pdf](accessibility/Abidors%20Accessibility%20Compliance%20report.pdf)
 
   
 ### 2. Nexura Africa (E-Commerce Website)
