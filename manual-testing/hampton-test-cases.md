@@ -1,8 +1,8 @@
-# Abidors Website 
+# Hmapton Scientiifc Website 
 # Test Scenarios & Test Cases
 
-**Application Name:** Abidors Website  
-**Application URL:** https://abidors.com/  
+**Application Name:** Hampton Scientific Website  
+**Application URL:** https://www.hamptonscientific.com/
 **Testing Type:** Manual Functional, Usability, Accessibility, Basic Performance  
 
 ---
@@ -14,7 +14,7 @@
 
 **Steps:**
 1. Open a supported browser
-2. Navigate to `https://abidors.com/`
+2. Navigate to `https://www.hamptonscientific.com/`
 
 **Expected Result:**
 - Website loads successfully without errors
