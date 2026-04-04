@@ -1,13 +1,13 @@
-# Abidors Website Test Plan
+# Hampton Scientific Website Test Plan
 
 ## 1. Test Plan Overview
 
-**Application Name:** Abidors Website  
-**Application URL:** https://abidors.com/  
+**Application Name:** Hampton Scientific Website  
+**Application URL:** https://www.hamptonscientific.com/  
 **Application Type:** Public-facing business website  
 
 ### Objective
-The objective of this test plan is to evaluate the **functional correctness, usability, accessibility, API behavior (where applicable), and basic performance characteristics** of the Abidors website in order to identify defects, usability issues, and quality risks that could impact end users.
+The objective of this test plan is to evaluate the **functional correctness, usability, accessibility, API behavior (where applicable), and basic performance characteristics** of the Hamptons Scientific website in order to identify defects, usability issues, and quality risks that could impact end users.
 
 ---
 
@@ -59,7 +59,7 @@ Where applicable, API behavior will be evaluated by:
 - Validating response status codes and payload structure  
 - Identifying error responses and handling behavior  
 
-**Tools used:** Postman, Newman
+**Tools used:** Postman
 
 ---
 
@@ -86,7 +86,7 @@ Browser developer tools and Lighthouse audits may be used for analysis.
 
 ## 4. Test Environment
 
-- **Browsers:** Chrome, Firefox  
+- **Browsers:** Microsoft Edge, Chrome, Firefox  
 - **Devices:** Desktop and mobile (responsive testing)  
 - **Operating System:** Windows  
 - **Test Data:** Publicly available and non-production data  
