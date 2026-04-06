@@ -31,7 +31,20 @@
 - No browser security warnings are displayed
 
 ---
+### TS-03 New User Registration
 
+#### TC-03 Verify that a new user account can be created
+**Steps:**
+- Navigate to the website using the url
+- Click on Login
+- Scroll down to and click "Don't have an account? Register here"
+- Verify successful redirection to the registration page
+- Fill in the required information on the form fields
+- Click "Create Account"
+**Expected Result:**
+  - A new user account is successfully created after the form fields are filled in with the correct/appropriate data
+    
+   
 ### TS-02: Navigation & Page Structure
 
 #### TC-03: Verify main navigation links
