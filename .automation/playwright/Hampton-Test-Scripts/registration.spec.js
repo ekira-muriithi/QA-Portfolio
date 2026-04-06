@@ -9,10 +9,10 @@ test('registration', async({page}) =>{
   await expect(page.locator("h1[class='text-4xl md:text-5xl font-bold text-gray-900 mb-3']")).toBeVisible();
   await page.fill("#firstName", "Ekira");
   await page.fill("#lastName","Muriithi");
-  await page.fill("#email","murugiekra1@gmail.com");
+  await page.fill("#email","*********@gmail.com");
   await page.fill("#phone","+254000000000")
-  await page.fill("#password","1234567")
-  await page.fill("#confirmPassword","123456")
+  await page.fill("#password","*******")
+  await page.fill("#confirmPassword","******")
   await page.fill("#facilityName","testfacilityname")
   await page.fill("#facilityType","Clinic")
   await page.fill("#address","N/A")
